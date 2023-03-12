@@ -1,3 +1,4 @@
+package cw;
 import java.util.Scanner;
 
 public class Ex1
