@@ -12,7 +12,7 @@ public class Ex1
             while (a != 0)
             {
                 a = scanner.nextInt();
-                if(a % 2 == 0)
+                if(a > 0 )
                 {
                     c = c + a;
                 }
