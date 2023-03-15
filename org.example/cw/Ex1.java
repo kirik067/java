@@ -8,7 +8,7 @@ public class Ex1
         try (Scanner scanner = new Scanner(System.in)) 
         {
             int a = scanner.nextInt();
-            int c = 0;
+            int c = a;
             while (a != 0)
             {
                 a = scanner.nextInt();
